@@ -1,6 +1,9 @@
 # STA221_LMP_project
 
 This repository contains the code and dataset used by our team to predict electricity prices in California for the STA 221 Project. It includes Jupyter Notebook files that cover the entire workflow, including dataset collection, merging datasets, exploratory data analysis (EDA), and building predictive models using LSTM and SARIMA. Additionally, the repository provides datasets that were collected, merged, and prepared for training, testing, and prediction purposes.
+Additionally, due to GitHub's file size restrictions, the datasets have been compressed into ZIP files for easier storage and sharing.
+
+Note: Some of the raw collected data files are larger than 25MB even after compression, so they could not be uploaded to this repository. 
 
 __Structure__:
 
